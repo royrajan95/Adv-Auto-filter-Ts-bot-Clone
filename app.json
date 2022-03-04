@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/Ts-bots",
-    "repository": "https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone",
+    "repository": "https://github.com/royrajan95/Adv-Auto-filter-Ts-bot-Clone",
     "success_url": "https://telegram.dog/Ts_bots",
     "env": {
         "APP_ID": {
